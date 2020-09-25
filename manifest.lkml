@@ -8,7 +8,7 @@ project_name: "test"
 # }
 application: look-runner {
   label: "Look runner"
-  file: "bundle.js"
+  file: "/bundle.js"
   entitlements: {
     local_storage: no
     navigation: no
